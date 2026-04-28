@@ -41,7 +41,6 @@
 💬 **Ask me about**
 - Bioinformatics, RNA-seq analysis, sequence analysis, and mutation tracking
 - Python, R, and SQL for data analysis
-- Credit risk analytics and real-world data problems
 - Projects combining biology with data science
 
 ⚡ **Fun fact**
