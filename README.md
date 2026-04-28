@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamsathvani</h1>
-<h3 align="center">Bioinformatics MSc student | Credit Strategy Analyst | Data & Genomics Enthusiast</h3>
+<h3 align="center">Bioinformatics MSc student | Biochemist | Data & Genomics Enthusiast</h3>
 
 ---
 
