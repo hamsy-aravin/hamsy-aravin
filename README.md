@@ -51,7 +51,7 @@
 ## 🌐 Socials
 
 <p align="center">
-  <a href="www.linkedin.com/in/hamsathvani-aravinthan" target="_blank">
+  <a href="https://www.linkedin.com/in/hamsathvani-aravinthan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7F00FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:hamsy9170@gmail.com">
