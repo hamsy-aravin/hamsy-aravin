@@ -94,13 +94,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamsy-aravin&theme=radical&hide_border=true&layout=compact"/>
 </p>
 
----
-
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=hamsy-aravin&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
-</p>
 
 ---
 
